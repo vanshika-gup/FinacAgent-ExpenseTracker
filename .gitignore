@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+env/
+
+# Credentials and secrets (NEVER commit these)
+/rugged-choir-398914-e074525cfd1e.json
+ask-emily-*.json
+*.json
+!data/portfolio.json
+!package.json
+/.env
+.streamlit/secrets.toml

@@ -1,0 +1,26 @@
+[
+  {
+    "ticker": "RELIANCE.NS",
+    "invested_amount": 3000.0,
+    "purchase_date": "2025-10-26",
+    "added_on": "2025-10-26T21:25:31.089090"
+  },
+  {
+    "ticker": "TCS.NS",
+    "invested_amount": 2000.0,
+    "purchase_date": "2025-10-25",
+    "added_on": "2025-10-26T22:03:22.024776"
+  },
+  {
+    "ticker": "INFY.NS",
+    "invested_amount": 15000.0,
+    "purchase_date": "2025-10-25",
+    "added_on": "2025-10-26T22:03:41.434971"
+  },
+  {
+    "ticker": "HDFCBANK.NS",
+    "invested_amount": 16000.0,
+    "purchase_date": "2025-10-25",
+    "added_on": "2025-10-26T22:03:58.671482"
+  }
+]

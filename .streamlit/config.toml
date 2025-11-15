@@ -1,0 +1,22 @@
+[server]
+runOnSave = true
+
+[browser]
+gatherUsageStats = false
+
+
+[runner]
+magicEnabled = true
+
+[logger]
+level = "info"
+
+[theme]
+base = "light"
+
+[global]
+developmentMode = false
+
+[client]
+showErrorDetails = true
+toolbarMode = "auto"
